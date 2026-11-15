@@ -4,6 +4,7 @@
   "deploy_individual_repo": true,
   "repo_url": "https://github.com/alvapcompany/vainilla-saltillo",
   "pages_url": "https://alvapcompany.github.io/vainilla-saltillo/",
+  "dashboard_url": "https://alvapcompany.github.io/vainilla-saltillo/dashboard.html",
   "nombre_negocio": "Vainilla | Cocina Contemporánea",
   "categoria": "Desayunos, Comidas y Cenas",
   "descripcion": "Cocina contemporánea en Saltillo. Disfruta los mejores desayunos, comidas y cenas en un ambiente exclusivo.",
